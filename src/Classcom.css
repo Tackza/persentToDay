@@ -1,0 +1,11 @@
+input:checked+span {
+    text-decoration: line-through;
+
+}
+.check {
+    color : red
+}
+
+li {
+    list-style-type: none;
+}
